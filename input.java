@@ -1,0 +1,8 @@
+package Java;
+
+public class input {
+    public static void main(String[] args) {
+        System.out.println("GO FOR IT");
+    }
+    
+}
